@@ -1,14 +1,9 @@
-ul.nav {
+nav {
   background-color: tomato;
-  margin: 5px;
-  padding:25px;
+  
 }
 li {
-  background-color: lightblue;
+
   display: inline-block;
   padding: 0 5px;
-}
-.box{
-  display: inline-block;
-  width: 40%;
 }
